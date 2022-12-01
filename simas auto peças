@@ -1,0 +1,20 @@
+html lang="pt-br">
+	<head>
+    	<meta charset="UTF-8">
+    	<title>SIMAS AUTO PEÇAS</title>
+    	<link rel="stylesheet" href="style.css">
+	</head>
+
+	<body>
+		<header>
+			<h1 class="titulo-principal">SIMAS AUTO PEÇAS</h1>
+		</header>
+		<img id="banner" src="banner.jpg">
+			<div class="principal">
+			<h2 class="título-centralizado">Sobre a AUTO PEÇAS</h2>
+
+			<p>Localizada no centro da cidade <strong>SIMAS AUTO PEÇAS</strong> Traz para você as melhores peças do mercador, com qas melhores qualidades e otimo custo, o merlhor e o mais barato.</p>
+
+			<p id="missao"><em>Nossa missão é: <strong>"cuidar de você cliente e do seu amado veiculo"</strong>.</em></p>
+
+			<p>Oferecemos conforto e qualidade com as melhores peças do marcado.</p>
